@@ -1,5 +1,5 @@
 # microcms-blog
-サイト: https://blog.microcms.io
+サイト: WIP
 
 ## 技術構成
 - Nuxt（SSG）
